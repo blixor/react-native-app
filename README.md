@@ -2,8 +2,8 @@
 
   <p align="center">
     <a href="https://www.npmjs.com/package/react-native-app-tour"><img src="http://img.shields.io/npm/v/react-native-app-tour.svg?style=flat" /></a>
-    <a href="https://github.com/prscX/react-native-app-tour/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
-    <a href="https://github.com/prscX/react-native-app-tour#License"><img src="https://img.shields.io/npm/l/react-native-app-tour.svg?style=flat" /></a>
+    <a href="https://github.com/blixor/react-native-app/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+    <a href="https://github.com/blixor/react-native-app#License"><img src="https://img.shields.io/npm/l/react-native-app-tour.svg?style=flat" /></a>
   </p>
 
     ReactNative: Native App Tour Library (Android/iOS)
@@ -84,7 +84,7 @@ allprojects {
     - FIX: remove react-native-app-tour from package.json and rerun
   - Pods version is out of date.
     - `pod repo update`
-- If you encounter `File not found in iOS` issue while setup, please refer [ISSUE - 3](https://github.com/prscX/react-native-app-tour/issues/3) issue which might help you in order to resolve.
+- If you encounter `File not found in iOS` issue while setup, please refer [ISSUE - 3](https://github.com/blixor/react-native-app/issues/3) issue which might help you in order to resolve.
 - If you have problems with `Android` Trying to resolve view with tag which doesn't exist or can't resolve tag. Please add props `collapasable: false` to your View
 
 ## 🎨 API's
@@ -167,12 +167,12 @@ AppTour.ShowSequence(appTourSequence)
 
 ## 🔧 Breaking Changes
 
-- [V0.0.4](https://github.com/prscX/react-native-app-tour/releases/tag/v0.0.4)
+- [V0.0.4](https://github.com/blixor/react-native-app/releases/tag/v0.0.4)
 
   - Generalized props across platforms @congnguyen91
   - Migrated License to Apache 2.0
 
-- [V0.0.10](https://github.com/prscX/react-native-app-tour/releases/tag/v0.0.10)
+- [V0.0.10](https://github.com/blixor/react-native-app/releases/tag/v0.0.10)
   - Added `order` as a mandatory property to each target
   - Each component which is to be rendered in the tour should have a `key` prop. It is mandatory.
 
@@ -183,7 +183,7 @@ AppTour.ShowSequence(appTourSequence)
 
 ## 🤔 How to contribute
 
-Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/prscX/react-native-app-tour/issues).
+Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/blixor/react-native-app/issues).
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
 ## 💫 Where is this library used?
