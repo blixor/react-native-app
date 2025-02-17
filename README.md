@@ -6,7 +6,7 @@
     <a href="https://github.com/blixor/react-native-app#License"><img src="https://img.shields.io/npm/l/react-native-app-tour.svg?style=flat" /></a>
   </p>
 
-    ReactNative: Native App Tour Library (Android/iOS)
+    ReactNative: Native App Library (Android/iOS)
 
 If this project has helped you out, please support us with a star 🌟
 
